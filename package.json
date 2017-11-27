@@ -17,6 +17,16 @@
   },
   "homepage": "https://github.com/yankwan/fund-analysis#readme",
   "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-runtime": "^6.26.0",
+    "cheerio": "^1.0.0-rc.2",
+    "crypto-js": "^3.1.9-1",
+    "phantomjs": "^2.1.7+deprecated",
     "superagent": "^3.8.1"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-stage-3": "^6.24.1"
   }
 }
