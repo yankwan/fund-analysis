@@ -1,0 +1,22 @@
+{
+  "name": "fund-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yankwan/fund-analysis.git"
+  },
+  "author": "yanjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yankwan/fund-analysis/issues"
+  },
+  "homepage": "https://github.com/yankwan/fund-analysis#readme",
+  "dependencies": {
+    "superagent": "^3.8.1"
+  }
+}
