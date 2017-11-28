@@ -10,6 +10,9 @@ app.use(bodyParser.urlencoded({ extended: false }));
 // parse application/json
 app.use(bodyParser.json());
 
+// static file
+app.use(express.static('public'))
+
 
 // Router
 const eda = require('./router/eda_router');
