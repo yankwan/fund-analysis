@@ -26,6 +26,7 @@
     "express": "^4.16.2",
     "phantomjs": "^2.1.7+deprecated",
     "superagent": "^3.8.1",
+    "underscore": "^1.8.3",
     "underscore-node": "^0.1.2"
   },
   "devDependencies": {
